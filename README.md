@@ -69,13 +69,12 @@ Output Waveform
 
 
 
+Tabular Column & Calculation
+![WhatsApp Image 2025-11-13 at 11 43 18 AM](https://github.com/user-attachments/assets/412ca594-51da-4c17-a1fa-efb8b1b761ef)
 
 
-Tabular Column
 
 
-
-Calculation
 
 
 
