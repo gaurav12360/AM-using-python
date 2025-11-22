@@ -3,7 +3,7 @@
 Aim
 
 
-To implement and analyze frequency modulation (FM) using Python's NumPy and Matplotlib libraries. 
+To implement and analyze amplitude modulation (AM) using Python's NumPy and Matplotlib libraries. 
 
 Apparatus Required
 
